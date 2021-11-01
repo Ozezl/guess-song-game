@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/guess-song-name/static/css/main.d0effd88.chunk.css",
+    "main.js": "/guess-song-name/static/js/main.a6252b05.chunk.js",
+    "main.js.map": "/guess-song-name/static/js/main.a6252b05.chunk.js.map",
+    "runtime-main.js": "/guess-song-name/static/js/runtime-main.b79239a7.js",
+    "runtime-main.js.map": "/guess-song-name/static/js/runtime-main.b79239a7.js.map",
+    "static/css/2.46925b27.chunk.css": "/guess-song-name/static/css/2.46925b27.chunk.css",
+    "static/js/2.972e651e.chunk.js": "/guess-song-name/static/js/2.972e651e.chunk.js",
+    "static/js/2.972e651e.chunk.js.map": "/guess-song-name/static/js/2.972e651e.chunk.js.map",
+    "index.html": "/guess-song-name/index.html",
+    "static/css/2.46925b27.chunk.css.map": "/guess-song-name/static/css/2.46925b27.chunk.css.map",
+    "static/css/main.d0effd88.chunk.css.map": "/guess-song-name/static/css/main.d0effd88.chunk.css.map",
+    "static/js/2.972e651e.chunk.js.LICENSE.txt": "/guess-song-name/static/js/2.972e651e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b79239a7.js",
+    "static/css/2.46925b27.chunk.css",
+    "static/js/2.972e651e.chunk.js",
+    "static/css/main.d0effd88.chunk.css",
+    "static/js/main.a6252b05.chunk.js"
+  ]
+}
