@@ -3,7 +3,9 @@ import { message } from "antd";
 import { Radio, Space } from "antd";
 import { Typography } from "antd";
 import { Button } from "antd";
+import Counter from "./Counter.js";
 import "./Round.css";
+
 const { Title } = Typography;
 
 function Round(props) {
@@ -81,6 +83,7 @@ function Round(props) {
       <Button type="primary" onClick={handleNextButton}>
         Next
       </Button>
+      <Counter currentRound={state} allRounds={songs.length}></Counter>
     </div>
   );
 }
