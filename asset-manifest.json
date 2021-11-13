@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/guess-song-game/static/css/main.d0effd88.chunk.css",
-    "main.js": "/guess-song-game/static/js/main.a6252b05.chunk.js",
-    "main.js.map": "/guess-song-game/static/js/main.a6252b05.chunk.js.map",
+    "main.css": "/guess-song-game/static/css/main.3fc33c2b.chunk.css",
+    "main.js": "/guess-song-game/static/js/main.be5d263e.chunk.js",
+    "main.js.map": "/guess-song-game/static/js/main.be5d263e.chunk.js.map",
     "runtime-main.js": "/guess-song-game/static/js/runtime-main.eb76579c.js",
     "runtime-main.js.map": "/guess-song-game/static/js/runtime-main.eb76579c.js.map",
     "static/css/2.46925b27.chunk.css": "/guess-song-game/static/css/2.46925b27.chunk.css",
-    "static/js/2.9e8a54de.chunk.js": "/guess-song-game/static/js/2.9e8a54de.chunk.js",
-    "static/js/2.9e8a54de.chunk.js.map": "/guess-song-game/static/js/2.9e8a54de.chunk.js.map",
+    "static/js/2.348ec5e9.chunk.js": "/guess-song-game/static/js/2.348ec5e9.chunk.js",
+    "static/js/2.348ec5e9.chunk.js.map": "/guess-song-game/static/js/2.348ec5e9.chunk.js.map",
     "index.html": "/guess-song-game/index.html",
     "static/css/2.46925b27.chunk.css.map": "/guess-song-game/static/css/2.46925b27.chunk.css.map",
-    "static/css/main.d0effd88.chunk.css.map": "/guess-song-game/static/css/main.d0effd88.chunk.css.map",
-    "static/js/2.9e8a54de.chunk.js.LICENSE.txt": "/guess-song-game/static/js/2.9e8a54de.chunk.js.LICENSE.txt"
+    "static/css/main.3fc33c2b.chunk.css.map": "/guess-song-game/static/css/main.3fc33c2b.chunk.css.map",
+    "static/js/2.348ec5e9.chunk.js.LICENSE.txt": "/guess-song-game/static/js/2.348ec5e9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.eb76579c.js",
     "static/css/2.46925b27.chunk.css",
-    "static/js/2.9e8a54de.chunk.js",
-    "static/css/main.d0effd88.chunk.css",
-    "static/js/main.a6252b05.chunk.js"
+    "static/js/2.348ec5e9.chunk.js",
+    "static/css/main.3fc33c2b.chunk.css",
+    "static/js/main.be5d263e.chunk.js"
   ]
 }
