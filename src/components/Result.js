@@ -1,5 +1,6 @@
 import { Typography } from "antd";
 import { Button } from "antd";
+import "./Result.css";
 const { Title, Paragraph } = Typography;
 
 function Result(props) {

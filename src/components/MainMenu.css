@@ -3,3 +3,18 @@
     flex-direction: column;
     align-items: center;
 }
+
+@media (max-width: 840px) { 
+    .main-menu { 
+        padding: 5%;
+    }
+    .main-menu h1 {
+        text-align: center !important;
+    }
+    .main-menu div {
+        text-align: center !important;
+    }
+    .main-menu button {
+        margin: 1em 0 !important;
+    }
+}

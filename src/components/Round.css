@@ -3,3 +3,18 @@
     flex-direction: column;
     align-items: center;
 }
+
+@media (max-width: 840px) { 
+    .round { 
+        padding: 5%;
+    }
+    .round h1 {
+        text-align: center !important;
+    }
+    .round audio {
+        margin-bottom: 1.5em;
+    }
+    .round button {
+        margin: 1em 0 !important;
+    }
+}
